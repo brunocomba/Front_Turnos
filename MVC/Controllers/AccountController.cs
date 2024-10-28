@@ -25,7 +25,7 @@ namespace MVC.Controllers
             _accountService = accountService;
             _httpContextAccessor = httpContextAccessor;
             _httpClient = httpClient;
-            _httpClient.BaseAddress = new Uri("https://backgestionturnos.azurewebsites.net/"); // URL base de la API
+            _httpClient.BaseAddress = new Uri("https://backturnos.azurewebsites.net/"); // URL base de la API
         }
 
         [HttpGet]
