@@ -17,7 +17,7 @@ namespace MVC.ApiService
         public AdministradorService(HttpClient httpClient, IHttpContextAccessor httpContextAccessor)
         {
             _httpClient = httpClient;
-            _httpClient.BaseAddress = new Uri("https://backgestionturnos.azurewebsites.net/"); // URL base de la API
+            _httpClient.BaseAddress = new Uri("https://backturnos.azurewebsites.net/"); // URL base de la API
             _httpContextAccessor = httpContextAccessor;
         }
 
