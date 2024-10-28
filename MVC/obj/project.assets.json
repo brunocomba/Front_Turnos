@@ -6651,11 +6651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brcom\\OneDrive\\Documentos\\GitHub\\FrontGestionTurnos\\MVC\\MVC.csproj",
+      "projectUniqueName": "C:\\Users\\brcom\\OneDrive\\Documentos\\GitHub\\Front_Turnos\\MVC\\MVC.csproj",
       "projectName": "MVC",
-      "projectPath": "C:\\Users\\brcom\\OneDrive\\Documentos\\GitHub\\FrontGestionTurnos\\MVC\\MVC.csproj",
+      "projectPath": "C:\\Users\\brcom\\OneDrive\\Documentos\\GitHub\\Front_Turnos\\MVC\\MVC.csproj",
       "packagesPath": "C:\\Users\\brcom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brcom\\OneDrive\\Documentos\\GitHub\\FrontGestionTurnos\\MVC\\obj\\",
+      "outputPath": "C:\\Users\\brcom\\OneDrive\\Documentos\\GitHub\\Front_Turnos\\MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brcom\\AppData\\Roaming\\NuGet\\NuGet.Config",
